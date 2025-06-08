@@ -57,10 +57,7 @@ A complete institute management platform for handling student records, exam data
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryanxx4&show_icons=true&theme=default" alt="Aryan's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryanxx4&theme=default" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanxx4&layout=compact&theme=default" alt="Top Languages" />
-</div>
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryanxx4&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aryanxx4&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanxx4&layout=compact&theme=radical)
+
